@@ -35,5 +35,13 @@
     "peerDependencies": {
         "react": ">=18.0.0",
         "react-dom": ">=18.0.0"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sayednaweed/nastran-notification.git"
+    },
+    "bugs": {
+        "url": "https://github.com/sayednaweed/nastran-notification/issues"
+    },
+    "homepage": "https://github.com/sayednaweed/nastran-notification"
 }
