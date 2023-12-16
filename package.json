@@ -20,7 +20,7 @@
         "build:cjs": "tsc --module CommonJS --outDir dist/cjs",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "Sayed Naweed Sayedy",
+    "author": "Sayed Naweed Sayedy <sayednaweedsayedy@gmail.com>",
     "license": "MIT",
     "devDependencies": {
         "@types/events": "^3.0.3",
@@ -38,7 +38,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/sayednaweed/nastran-notification.git"
+        "url": "git+https://github.com/sayednaweed/nastran-notification.git"
     },
     "bugs": {
         "url": "https://github.com/sayednaweed/nastran-notification/issues"
