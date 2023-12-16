@@ -1,7 +1,7 @@
 {
     "name": "nastran-notification",
     "version": "1.0.0",
-    "description": "",
+    "description": "Show notification in optimzed way.",
     "keywords": [
         "react-component",
         "react",
